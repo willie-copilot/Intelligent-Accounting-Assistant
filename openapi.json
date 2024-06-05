@@ -7,7 +7,7 @@
     },
     "servers": [
         {
-          "url": "填入自己的url",
+          "url": "https://intelligent-accounting-assistant-g91a.onrender.com",
           "description": "Main server"
         }
     ],
